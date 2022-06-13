@@ -1,0 +1,1 @@
+INSERT INTO `database`.`items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES ('gps', 'gps', '1', '0', '1');
